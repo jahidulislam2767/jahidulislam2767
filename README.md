@@ -8,7 +8,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills:  HTML5 / CSS3 / JavaScript / Bootstrap/PHP/Photoshop
 
-- 🔭 I’m currently working on this page. 
+
 - 💬 Ask me about web development  
 
 
